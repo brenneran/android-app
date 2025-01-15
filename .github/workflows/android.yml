@@ -90,7 +90,7 @@ jobs:
           name: release-apk-${{ steps.getVersion.outputs.versionName }}
           path: app/build/outputs/apk/release/app-release.apk
 
-  deploy:
+    deploy:
     runs-on: ubuntu-latest
     needs: build
     steps:
