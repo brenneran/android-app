@@ -22,8 +22,8 @@ This repository contains the code for **My First Android App**, designed and bui
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/my-first-android-app.git
-   cd my-first-android-app
+   git clone git@github.com:brenneran/android-app.git
+   cd android-app
    ```
 
 2. Open the project in Android Studio.
@@ -81,16 +81,8 @@ The repository includes a pre-configured GitHub Actions workflow:
 
 5. GitHub Actions will automatically build and publish the release APK to the Telegram group.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
 ## Contact
 
 For any inquiries, feel free to reach out:
-- **Email**: your-email@example.com
-- **Telegram**: [Your Telegram Handle](https://t.me/yourtelegramhandle)
+- **Email**: andrey@brenner.space
